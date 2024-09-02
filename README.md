@@ -27,3 +27,10 @@ Voici les commandes disponibles pour interagir avec le bot :
 - `/leaderboard` : Affiche le classement global. 🏆
 - `/resetstats [user]` : Réinitialise les statistiques. Sans spécifier d'utilisateur, toutes les statistiques seront supprimées. En indiquant un utilisateur, seules ses statistiques seront supprimées. 🔄
 
+## Rejoignez-nous sur Discord
+
+Pour toute question, suggestion ou simplement pour discuter avec la communauté, rejoignez-nous sur notre serveur Discord !
+
+👉 [Rejoindre le serveur Discord](https://discord.gg/zykD35HXmH)
+
+Nous serions ravis de vous y voir ! 😄
