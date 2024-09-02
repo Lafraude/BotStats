@@ -10,7 +10,7 @@ Pour configurer le bot, suivez ces étapes :
     ```
     📦
 
-2. **Configurez les informations** : Modifiez le fichier `config.json`  pour remplir les détails requis.
+2. **Configurez les informations** : Modifiez le fichier `config.json`  pour remplir les détails requis. 
     🛠️
 
 3. **Démarrez le bot** : Lancez le bot avec la commande suivante :
